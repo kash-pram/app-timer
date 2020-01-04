@@ -91,8 +91,6 @@ THE SOFTWARE.
 
 @angular/material/dialog
 
-@angular/material/slider
-
 @angular/material/snack-bar
 
 @angular/material/tooltip
