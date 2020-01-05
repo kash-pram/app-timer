@@ -1,7 +1,7 @@
 /* ===================================
     Reset
 ====================================== */
-
+/* 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body{ font-family: 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:15px; color:#6f6f6f; font-weight: 400;line-height: 26px; }
 body, html { -moz-osx-font-smoothing: grayscale; }
@@ -30,20 +30,20 @@ ul li { list-style: none; }
 ::-moz-selection { color:#000; background:#dbdbdb; }
 ::-webkit-input-placeholder { color: #6f6f6f; text-overflow: ellipsis;}
 ::-moz-placeholder { color: #6f6f6f; text-overflow: ellipsis; opacity:1;} 
-:-ms-input-placeholder { color: #6f6f6f; text-overflow: ellipsis; opacity:1;}
+:-ms-input-placeholder { color: #6f6f6f; text-overflow: ellipsis; opacity:1;} */
 
 /* ===================================
     Typography
 ====================================== */
 
 /* heading */
-h1, h2, h3, h4, h5, h6 {margin:0 0 20px; padding:0; letter-spacing: 0; font-weight: 600; font-family: 'Poppins', sans-serif; color: #232323; line-height: normal;}
+/* h1, h2, h3, h4, h5, h6 {margin:0 0 20px; padding:0; letter-spacing: 0; font-weight: 600; font-family: 'Poppins', sans-serif; color: #232323; line-height: normal;}
 h1 {font-size:42px;}
 h2 {font-size:34px;}
 h3 {font-size:32px;}
 h4 {font-size:30px;}
 h5 {font-size:26px;}
-h6 {font-size:22px;}
+h6 {font-size:22px;} */
 
 /* font size */
 .font-size11 {font-size:11px; line-height:14px;}
